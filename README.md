@@ -1,6 +1,8 @@
 Selenide examples: Gmail
 ========================
 
+Описание на русском в файле Readme RUS.docx
+
 This is a sample project demonstrating how to test GMail UI with Selenide (Selenium webdriver).
 
 **You can checkout and run it locally with a few minutes.**
